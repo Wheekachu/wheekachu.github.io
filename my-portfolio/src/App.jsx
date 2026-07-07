@@ -1,11 +1,9 @@
-import Navbar from "./components/Navbar";
-
-import "./App.css";
+import Profile from "./features/Profile";
 
 function App() {
   return (
     <>
-      <Navbar />
+    <Profile/>
     </>
   );
 }
