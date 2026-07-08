@@ -2,6 +2,7 @@ import Me from "../components/Me";
 import About from "../components/About";
 import Skills from "../components/Skills";
 import Navbar from "../components/Navbar";
+import Contact from "../components/Contact";
 
 function Profile() {
   return (
@@ -10,6 +11,7 @@ function Profile() {
     <Me/>
     <About/>
     <Skills/>
+    <Contact/>
     </>
 
   );

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MailManagement", "MailManagement", "{5561A857-8941-4D6C-BE95-149BA36D5997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-portfolio-be.MailManagement.Contracts", "src\MailManagement\my-portfolio-be.MailManagement.Contracts\my-portfolio-be.MailManagement.Contracts.csproj", "{3217E736-8825-44F4-8994-6ABA29C89F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-portfolio-be.MailManagement.Api", "src\MailManagement\my-portfolio-be.MailManagement.Api\my-portfolio-be.MailManagement.Api.csproj", "{738C6D2E-53C8-457F-85CF-0AACFC1BF4F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{DD13761A-A20A-4EAB-B7F1-B61BB724B6F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-portfolio-be.Shared", "src\Shared\my-portfolio-be.Shared\my-portfolio-be.Shared.csproj", "{25854C5A-322E-4627-8180-84E155326C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3217E736-8825-44F4-8994-6ABA29C89F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3217E736-8825-44F4-8994-6ABA29C89F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3217E736-8825-44F4-8994-6ABA29C89F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3217E736-8825-44F4-8994-6ABA29C89F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738C6D2E-53C8-457F-85CF-0AACFC1BF4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738C6D2E-53C8-457F-85CF-0AACFC1BF4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738C6D2E-53C8-457F-85CF-0AACFC1BF4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738C6D2E-53C8-457F-85CF-0AACFC1BF4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25854C5A-322E-4627-8180-84E155326C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25854C5A-322E-4627-8180-84E155326C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25854C5A-322E-4627-8180-84E155326C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25854C5A-322E-4627-8180-84E155326C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5561A857-8941-4D6C-BE95-149BA36D5997} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{3217E736-8825-44F4-8994-6ABA29C89F7E} = {5561A857-8941-4D6C-BE95-149BA36D5997}
+		{738C6D2E-53C8-457F-85CF-0AACFC1BF4F1} = {5561A857-8941-4D6C-BE95-149BA36D5997}
+		{DD13761A-A20A-4EAB-B7F1-B61BB724B6F3} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{25854C5A-322E-4627-8180-84E155326C9C} = {DD13761A-A20A-4EAB-B7F1-B61BB724B6F3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180C757F-E2B7-42B1-8C47-5575855A5DF8}
+	EndGlobalSection
+EndGlobal
