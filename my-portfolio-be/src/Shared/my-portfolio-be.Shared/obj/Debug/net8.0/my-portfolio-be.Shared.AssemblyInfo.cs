@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("my-portfolio-be.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25988a4555d72a4ecb743ee1667c515fa38fb91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b2146432368553231105ac2d70b5a46117c55ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("my-portfolio-be.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("my-portfolio-be.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,4 @@
-﻿namespace my_portfolio_be.Shared.Constants;
+﻿namespace my_portfolio_be.Shared.Constants.Configurations;
 
 public static class FrameworkConfiguration
 {

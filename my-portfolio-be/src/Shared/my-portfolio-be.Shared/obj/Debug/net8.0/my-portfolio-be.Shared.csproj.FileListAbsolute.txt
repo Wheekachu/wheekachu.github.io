@@ -1,0 +1,13 @@
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\obj\Debug\net8.0\my-portfolio-be.Shared.csproj.AssemblyReference.cache
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\obj\Debug\net8.0\my-portfolio-be.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\obj\Debug\net8.0\my-portfolio-be.Shared.AssemblyInfoInputs.cache
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\obj\Debug\net8.0\my-portfolio-be.Shared.AssemblyInfo.cs
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\obj\Debug\net8.0\my-portfolio-be.Shared.csproj.CoreCompileInputs.cache
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\obj\Debug\net8.0\my-portfolio-be.Shared.sourcelink.json
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\bin\Debug\net8.0\my-portfolio-be.Shared.deps.json
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\bin\Debug\net8.0\my-portfolio-be.Shared.dll
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\bin\Debug\net8.0\my-portfolio-be.Shared.pdb
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\obj\Debug\net8.0\my-portfolio-be.Shared.dll
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\obj\Debug\net8.0\refint\my-portfolio-be.Shared.dll
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\obj\Debug\net8.0\my-portfolio-be.Shared.pdb
+D:\Portfolio\wheekachu.github.io\my-portfolio-be\src\Shared\my-portfolio-be.Shared\obj\Debug\net8.0\ref\my-portfolio-be.Shared.dll
