@@ -44,7 +44,7 @@ useEffect(() => {
 
     try {
       // Replace with your actual .NET port (e.g., https://localhost:7123)
-      const response = await post("https://my-portfolio-web-service.onrender.com/mail-management/email-sender", {
+      const response = await fetch("https://my-portfolio-web-service.onrender.com/mail-management/email-sender", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
